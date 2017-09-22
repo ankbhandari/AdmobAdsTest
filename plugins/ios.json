@@ -1,0 +1,22 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-admob": {
+            "PACKAGE_NAME": "com.appfeel.admob.test"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-connectivity-monitor": {
+            "PACKAGE_NAME": "com.appfeel.admob.test"
+        },
+        "cordova-libgoogleadmobads": {
+            "PACKAGE_NAME": "com.appfeel.admob.test"
+        }
+    }
+}
